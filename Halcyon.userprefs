@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Halcyon/Screens/Highscore/HScoreEntry.cs">
+    <Files>
+      <File FileName="Halcyon/Properties/AppManifest.xml" Line="1" Column="1" />
+      <File FileName="Halcyon/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Halcyon/Properties/WMAppManifest.xml" Line="20" Column="20" />
+      <File FileName="Halcyon/Screens/About.cs" Line="78" Column="78" />
+      <File FileName="Halcyon/Screens/Background.cs" Line="30" Column="30" />
+      <File FileName="Halcyon/Screens/Dummy.cs" Line="44" Column="44" />
+      <File FileName="Halcyon/Screens/Game.cs" Line="52" Column="52" />
+      <File FileName="Halcyon/Screens/GameOver.cs" Line="13" Column="13" />
+      <File FileName="Halcyon/Screens/Highscore.cs" Line="6" Column="6" />
+      <File FileName="Halcyon/Screens/MainMenu.cs" Line="15" Column="15" />
+      <File FileName="Halcyon/Screens/NewHighscore.cs" Line="18" Column="18" />
+      <File FileName="Halcyon/Screens/Options.cs" Line="15" Column="15" />
+      <File FileName="Halcyon/Screens/Paused.cs" Line="13" Column="13" />
+      <File FileName="Halcyon/Screens/PopupOptions.cs" Line="19" Column="19" />
+      <File FileName="Halcyon/Screens/Powerups.cs" Line="15" Column="15" />
+      <File FileName="Halcyon/Screens/Menu/MenuEntry.cs" Line="16" Column="16" />
+      <File FileName="Halcyon/Screens/Menu/MenuScreen.cs" Line="14" Column="14" />
+      <File FileName="Halcyon/Screens/Highscore/HScoreScreen.cs" Line="19" Column="19" />
+      <File FileName="Halcyon/Screens/Highscore/HScoreEntry.cs" Line="18" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

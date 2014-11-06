@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Enemy>
+  <EnemyInfo Health="100" Exp="25" Texture="1"/>
+<EnemyInfo Health="100" Exp="35" Texture="2"/>
+<EnemyInfo Health="100" Exp="45" Texture="3"/>
+<EnemyInfo Health="100" Exp="55" Texture="4"/>
+<EnemyInfo Health="100" Exp="25" Texture="5"/>
+<EnemyInfo Health="100" Exp="35" Texture="6"/>
+<EnemyInfo Health="100" Exp="45" Texture="7"/>
+<EnemyInfo Health="100" Exp="55" Texture="8"/>
+	<EnemyInfo Health="100" Exp="25" Texture="9"/>
+  <EnemyInfo Health="100" Exp="35" Texture="10"/>\
+</Enemy>
