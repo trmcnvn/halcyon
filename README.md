@@ -4,7 +4,7 @@ Halcyon is a shoot 'em up game for Windows Phone 7. It is still avaiable on the 
 
 I'm open-sourcing what I can from the project, certain assets, such as sounds, and fonts have been removed.
 
-![](http://cl.ly/image/2q373w111m2P/Image%202014-11-06%20at%2010.01.37%20am.png)
+![](http://cdn.marketplaceimages.windowsphone.com/v8/images/502b93e6-e2ff-49bc-8dc0-fb9de141ecf8?imageType=ws_screenshot_large&rotation=0)
 
 ### License
 
