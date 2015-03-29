@@ -1,6 +1,6 @@
 # Halcyon
 
-Halcyon is a shoot 'em up game for Windows Phone 7 that is no longer available on the Windows Phone Marketplace.
+Halcyon is a shoot 'em up game for Windows Phone 7. While no longer supported, Halcyon can still be downloaded from the [Windows Marketplace](http://www.windowsphone.com/en-au/store/app/halcyon/f7dd794b-b5af-4f1f-8239-f5fcda2275e9).
 
 I'm open-sourcing what I can from the project, certain assets, such as sounds, and fonts have been removed.
 
